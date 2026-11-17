@@ -1,0 +1,7 @@
+[book]
+title = "Personality: A Unified Theory"
+authors = ["iamflipse"]
+description = "Eight lectures on personality as a state and as a transformation. The notebook does not name the speaker."
+
+[build]
+charset = "utf-8"
